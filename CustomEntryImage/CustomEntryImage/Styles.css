@@ -1,0 +1,21 @@
+﻿ContentPage {
+    background-color: #B9BAA3;
+    padding: 15 0;
+}
+Label {
+    text-align: center;
+    font-style:italic;
+    font-size: 30;
+    color: #A22C29;
+}
+Entry {
+    font-size: 30;
+    background-color: white;
+    margin: 10;
+    color: #0A100D;
+}
+Button {
+    font-size: 16;
+    color: #A22C29;
+    margin: 5 0;
+}
